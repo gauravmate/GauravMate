@@ -1,3 +1,4 @@
+![logo](https://github.com/gauravmate/GauravMate/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Gaurav Mate</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
